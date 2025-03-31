@@ -1,0 +1,3 @@
+C:/Users/ekalb/CLionProjects/Advanced_File_Practice/cmake-build-debug/CMakeFiles/Advanced_File_Practice.dir
+C:/Users/ekalb/CLionProjects/Advanced_File_Practice/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ekalb/CLionProjects/Advanced_File_Practice/cmake-build-debug/CMakeFiles/rebuild_cache.dir
